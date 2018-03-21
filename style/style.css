@@ -92,14 +92,3 @@ body {
 	position: relative;
 	top: 18px;
 }
-* {
-    box-sizing: border-box;
-}
-.menu {
-    width: 25%;
-    float: left;
-}
-.main {
-    width: 75%;
-    float: left;
-}
