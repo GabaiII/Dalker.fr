@@ -1,7 +1,7 @@
 body {
 	overflow-x: hidden;
 	margin: 0;
-	background-image: url(Galaxy.jpg) style="max-width:100%;height:auto";
+	background-image: url(Galaxy.jpg);
 }
 
 /*#site {
