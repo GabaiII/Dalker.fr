@@ -1,9 +1,8 @@
 body {
 	overflow-x: hidden;
 	margin: 0;
-	background-image: url(Galaxy.jpg);
+	background-image: url(Galaxy.jpg) background-size: 100%;
 	
-
 }
 }
 
