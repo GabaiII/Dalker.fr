@@ -20,28 +20,11 @@ body {background-image: url(Galaxy.jpg);text-align:center;}
 	.sidebar{width:150px;background:yellow;}
 }
 	
-
 /*#site {
 	width: 1000px;
 	margin: auto;
 	background-color: lightblue;
 }*/
-
-
-
-.section,
-aside {
-  margin: 1.858736059%; /*  10px ÷ 538px = .018587361 */
-}
-section {
-  float: left;
-  width: 63.197026%;    /* 340px ÷ 538px = .63197026 */   
-}
-aside {
-  float: right;
-  width: 29.3680297%;  /* 158px ÷ 538px = .293680297 */
-}
-
 
 #banner1 {
 	display: block;
@@ -62,7 +45,7 @@ aside {
 #menu {
 	min-width: 500px;
 	width: 100%;
-	height: auto;
+	height: 100px;
 	position: relative;
 	background-color: blue;
 }
@@ -102,7 +85,7 @@ aside {
 #banner2 {
 	display: block;
 	background-color: blue;
-	height: auto;
+	height: 50px;
 	width: 100%;
 }
 
@@ -116,7 +99,7 @@ aside {
 	text-align: center;
 	display: block;
 	background-color: blue;
-	height: auto;
+	height: 60px;
 }
 
 #footer p {
@@ -125,3 +108,4 @@ aside {
 	position: relative;
 	top: 18px;
 }
+
