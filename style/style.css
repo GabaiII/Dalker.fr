@@ -10,25 +10,9 @@ html,body {
 	padding:0
 	
 }
-.site-push{margin:0 20px;overflow:hidden;*zoom:1}
-.menu{height:auto;width:100%;}
-.page{height:auto;width:600px;}
 
-@media (max-width: 680px) {
-	/* code pour une largeur <680px */
-	.container{width:95%;}
-	.page{width:100%;}
-	.sidebar{display:none;}
-}
-
-@media (min-width: 680px) and (max-width: 959px) {
-	/* code pour une largeur comprise entre 680 et 959px */
-	.container{width:680px;}
-	.page{width:530px;}
-	.sidebar{width:150px;background:yellow;}
-}
 	
-/*#container {
+/*#site-container {
 	width: 100%;
 	margin: auto;
 	background-color: lightblue;
