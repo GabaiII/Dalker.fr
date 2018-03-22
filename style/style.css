@@ -14,7 +14,7 @@ body {background-image: url(Galaxy.jpg);text-align:center;}
 }
 
 @media (min-width: 680px) and (max-width: 1920px) {
-	/* code pour une largeur comprise entre 680 et 959px */
+	/* code pour une largeur comprise entre 680 et 1920px */
 	.container{width:680px;}
 	.page{width:530px;}
 	.sidebar{width:150px;background:yellow;}
