@@ -9,6 +9,22 @@ body {
 	margin: auto;
 	background-color: lightblue;
 }*/
+.container {
+  width: 538px;
+}
+section,
+aside {
+  margin: 10px;
+}
+section {
+  float: left;
+  width: 340px;
+}
+aside {
+  float: right;
+  width: 158px;
+}
+
 
 #banner1 {
 	display: block;
