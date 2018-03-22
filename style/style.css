@@ -2,9 +2,9 @@ body {background-image: url(Galaxy.jpg);text-align:center;}
 .container{width:800px;margin:0 auto;}
 .block{float:left;}
 .block:after{clear:left;}
-.menu{background:blue;height:40px;width:100%;}
-.page{background:white;height:1000px;width:600px;}
-.sidebar{background:red;height:600px;width:200px;}
+.menu{height:40px;width:100%;}
+.page{height:1000px;width:600px;}
+.sidebar{height:600px;width:200px;}
 
 @media (max-width: 3840px) {
 	/* code pour une largeur <680px */
