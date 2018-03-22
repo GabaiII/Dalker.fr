@@ -6,7 +6,7 @@ body {background-image: url(Galaxy.jpg);text-align:center;}
 .page{height:auto;width:600px;}
 .sidebar{height:aito;width:200px;}
 
-@media (max-width: 3840px) {
+@media (max-width: 680px) {
 	/* code pour une largeur <680px */
 	.container{width:95%;}
 	.page{width:100%;}
