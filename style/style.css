@@ -1,4 +1,4 @@
-body {
+html,body {
 	font-family:Roboto ;
 	background-image: url(Galaxy.jpg);
 	text-align:center;
@@ -10,7 +10,7 @@ body {
 	padding:0
 	
 }
-.container{width:800px;margin:0 auto;}
+.container{margin:0 20px;overflow:hidden;*zoom:1}
 .block{float:left;}
 .block:after{clear:left;}
 .menu{height:auto;width:100%;}
