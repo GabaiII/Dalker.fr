@@ -10,7 +10,7 @@ html,body {
 	padding:0
 	
 }
-@media only screen (min-width: 650px) and (max-width: 950px) {
+@media only screen (max-width: 950px) {
   .site-pusher, .site-container { height: 100%; }
   .site-container { overflow: hidden; }
   .site-pusher {
