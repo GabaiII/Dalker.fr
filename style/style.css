@@ -31,8 +31,8 @@ html,body {
 	.sidebar{width:150px;background:yellow;}
 }
 	
-/*#site {
-	width: 1000px;
+/*#container {
+	width: 100%;
 	margin: auto;
 	background-color: lightblue;
 }*/
