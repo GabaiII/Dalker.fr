@@ -10,12 +10,9 @@ html,body {
 	padding:0
 	
 }
-.container{margin:0 20px;overflow:hidden;*zoom:1}
-.block{float:left;}
-.block:after{clear:left;}
+.site-push{margin:0 20px;overflow:hidden;*zoom:1}
 .menu{height:auto;width:100%;}
 .page{height:auto;width:600px;}
-.sidebar{height:aito;width:200px;}
 
 @media (max-width: 680px) {
 	/* code pour une largeur <680px */
