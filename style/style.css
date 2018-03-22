@@ -92,3 +92,9 @@ body {
 	position: relative;
 	top: 18px;
 }
+/* @media Rule */
+@media all and (max-width: 1024px) {...}
+
+/* @import Rule */
+@import url(styles.css) all and (max-width: 1024px) {...}
+
