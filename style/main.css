@@ -103,6 +103,7 @@ li a, .button {
     height: 100%;
     background: url(../image/background.jpg) center;
     background-size: auto;
+    margin: 0px;
 }
 
 h1 {
