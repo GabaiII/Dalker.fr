@@ -47,7 +47,7 @@ table {
 body {
     font-family: 'Mina', sans-serif;
     overflow: hidden;
-    background: url(Galaxy.jpg);
+    background: url(Galaxy.jpg) center;
 }
 
 header {
