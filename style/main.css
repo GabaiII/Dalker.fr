@@ -46,7 +46,7 @@ table {
 
 body {
     font-family: 'Mina', sans-serif;
-    overflow: hidden;
+    overflow: scroll;
     background: url(Galaxy.jpg) center;
 }
 
