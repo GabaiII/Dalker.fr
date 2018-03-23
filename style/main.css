@@ -46,9 +46,7 @@ table {
 
 body {
     font-family: 'Roboto', sans-serif;
-    overflow: scroll;
-    background: url(../image/background.jpg);
-    background-size: cover;
+    overflow: poster;
 }
 
 header {
